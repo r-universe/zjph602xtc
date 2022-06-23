@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "WeightSVM"]
+	path = WeightSVM
+	url = https://github.com/zjph602xtc/wsvm
+	shallow = true
+	registered = true

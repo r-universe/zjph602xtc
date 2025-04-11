@@ -5,6 +5,9 @@
 [submodule "PWEXP"]
 	path = PWEXP
 	url = https://github.com/zjph602xtc/pwexp
+[submodule "PwePred"]
+	path = PwePred
+	url = https://github.com/cran/PwePred
 [submodule "WeightSVM"]
 	path = WeightSVM
 	url = https://github.com/zjph602xtc/wsvm
